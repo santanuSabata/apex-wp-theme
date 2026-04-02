@@ -93,6 +93,18 @@ apex-wp-theme/
 ```
 
 ---
+---
+
+## Author
+
+**Santanu Sabata**
+- Website: [https://santanusabata.netlify.app](https://santanusabata.netlify.app)
+- Email: [santanuwp@gmail.com](mailto:santanuwp@gmail.com)
+
+Feel free to reach out for questions, custom WordPress development,
+or Elementor widget work.
+
+---
 
 ## License
 
